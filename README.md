@@ -1,4 +1,6 @@
-# Chaos Communication Congress (CCC): '32c3' from December 27th to 30th, 2015
+# CCC: 32c3
+
+**The 32th Chaos Communication Congress from December 27th to 30th, 2015**
 
 Dear lovely Rubyists,
 
@@ -29,5 +31,3 @@ https://github.com/rubytown/32c3/issues/4
 
 ### Workshops / Self organized Sessions
 https://github.com/rubytown/32c3/issues/5
-
-
