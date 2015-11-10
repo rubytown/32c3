@@ -23,3 +23,8 @@ https://github.com/rubytown/32c3/issues/3
 
 ### Accomodation
 https://github.com/rubytown/32c3/issues/4
+
+### Workshops / Self organized Sessions
+https://github.com/rubytown/32c3/issues/5
+
+
